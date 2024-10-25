@@ -1,0 +1,11 @@
+{
+  "name": "Ghostly",
+  "symbol": "GHOST",
+  "description": "The official Ghostly token on the Solana blockchain.",
+  "image": "https://github.com/ingramali/Sol-Test/blob/main/Ghost.png",
+  "properties": {
+    "creators": [
+      { "address": "B9vS4AEK725ZgG2qGWoycdtrDfBN9tBn2WrTJJocU4c8", "share": 100 }
+    ]
+  }
+}
